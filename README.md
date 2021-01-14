@@ -12,14 +12,14 @@ An architectual diagram of the project:
 * Find the best model using Azure auto M, deploy the model and test it (using Azure Ml Studio portal)
 * Develop an Azure ML pipeline with all the steps for automation and reproducibility (Organizing and control via a notebook)
 
-<img src="diagram.png"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+<img src="diagram.png" width=200 heigth = 200  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
 
 ## Key Steps
 <p>
-    <img src="screens\azserviceprincipal.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens\amlworkspaceshare.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens\datasets.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens\automl_experiment.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="./screens/azserviceprincipal.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="./screens/amlworkspaceshare.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="./screens/datasets.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="./screens/automl_experiment.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
 </p>
 
 ## Screen Recording
