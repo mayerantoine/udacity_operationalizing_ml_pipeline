@@ -23,6 +23,7 @@ An architectual diagram of the project:
     <img src="screens/datasets.JPG"   width="360" heigth ="300"  alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
     <img src="screens/automl_experiment.JPG" width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
 </p>
+
 * Best model and application insights logs
 <p align="center">
     <img src="screens/bestmodel_selection.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
@@ -30,6 +31,21 @@ An architectual diagram of the project:
     <img src="screens/app_insights.JPG"   width="360" heigth ="300"  alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
     <img src="screens/app_insights_logs.JPG" width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
 </p>
+
+* Swagger and consume endpoint result
+<p align="center">
+    <img src="screens/swagger.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/endpoint.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+</p>
+
+* AutoML Pipeline
+<p align="center">
+    <img src="screens/pipeline_run1.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/pipeline_endpoint.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/jupyterwidgetpipeline.JPG"   width="360" heigth ="300"  alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/published_Activepipeline.JPG" width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+</p>
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
