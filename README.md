@@ -12,14 +12,23 @@ An architectual diagram of the project:
 * Find the best model using Azure auto M, deploy the model and test it (using Azure Ml Studio portal)
 * Develop an Azure ML pipeline with all the steps for automation and reproducibility (Organizing and control via a notebook)
 
-<img src="diagram.png" width=460 heigth = 400  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+<img src="diagram.png" width="460" heigth = "400"  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
 
 ## Key Steps
-<p>
-    <img src="screens/azserviceprincipal.JPG"  width=360 heigth = 300   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/amlworkspaceshare.JPG"  width=360 heigth = 300  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/datasets.JPG"   width=360 heigth = 300 alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/automl_experiment.JPG" width=360 heigth = 300   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+
+* Authentication and Auto ML Run
+<p align="center">
+    <img src="screens/azserviceprincipal.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/amlworkspaceshare.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/datasets.JPG"   width="360" heigth ="300"  alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/automl_experiment.JPG" width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+</p>
+* Best model and application insights logs
+<p align="center">
+    <img src="screens/bestmodel_selection.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/bestmodel_selection2.JPG"  width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/app_insights.JPG"   width="360" heigth ="300"  alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
+    <img src="screens/app_insights_logs.JPG" width="360" heigth ="300"   alt="operationalizing pipeline"  style="float: left; margin-right: 20px;" />
 </p>
 
 ## Screen Recording
