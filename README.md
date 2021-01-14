@@ -8,8 +8,8 @@ The data is related to direct marketing campaigns (phone calls) of a Portuguese 
 The best performing model was a VotingEnsemble. 
 
 ## Architectural Diagram
-An architectual diagram of the project:
-* Find the best model using Azure auto M, deploy the model and test it (using Azure Ml Studio portal)
+An architectural diagram of the project:
+* Find the best model using Azure auto ML , deploy the model (using Azure Ml Studio portal) and test it (in command line)
 * Develop an Azure ML pipeline with all the steps for automation and reproducibility (Organizing and control via a notebook)
 
 <img src="diagram.png" width="460" heigth = "400"  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
@@ -48,6 +48,6 @@ An architectual diagram of the project:
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Demo Video](https://www.youtube.com/watch?v=KrmZg1uc-jg)
 
 
