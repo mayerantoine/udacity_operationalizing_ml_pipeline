@@ -16,10 +16,10 @@ An architectual diagram of the project:
 
 ## Key Steps
 <p>
-    <img src="screens/azserviceprincipal.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/amlworkspaceshare.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/datasets.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
-    <img src="screens/automl_experiment.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens/azserviceprincipal.JPG"  width=360 heigth = 300   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens/amlworkspaceshare.JPG"  width=360 heigth = 300  alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens/datasets.JPG"   width=360 heigth = 300 alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens/automl_experiment.JPG" width=360 heigth = 300   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
 </p>
 
 ## Screen Recording
