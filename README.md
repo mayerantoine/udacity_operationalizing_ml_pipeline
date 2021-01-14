@@ -1,19 +1,28 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
+# Operationalizing Machine Learning pipeline in Azure ML
 
-# Your Project Title Here
+This project is part of the Udacity Azure ML Nanodegree. In this project, we  deployed the best model generated from an auto ml training  process as a realtime web service endpoint.We test the endpoint. We create and publish an azure ml pipeline that reproduce and automate the complete process.
 
-*TODO:* Write an overview to your project.
+The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution.The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+The best performing model was a VotingEnsemble. 
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+An architectual diagram of the project:
+* Find the best model using Azure auto M, deploy the model and test it (using Azure Ml Studio portal)
+* Develop an Azure ML pipeline with all the steps for automation and reproducibility (Organizing and control via a notebook)
+
+<img src="diagram.png"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+<p>
+    <img src="screens\azserviceprincipal.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens\amlworkspaceshare.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens\datasets.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+    <img src="screens\automl_experiment.JPG"   alt="operationalizing pipeline"  style="float: left; margin-right: 10px;" />
+</p>
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
-# udacity_operationalizing_ml_pipeline
+
